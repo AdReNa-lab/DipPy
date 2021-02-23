@@ -1,0 +1,5 @@
+numpy==1.14.5
+Phidget22==1.0.0
+PyQt5==5.11.2
+PyQt5-sip==4.19.12
+Quamash==0.6.0
